@@ -1,0 +1,17 @@
+:root{
+    --dark: #16191c;
+    --dark-x: #1e2126;
+    --light: #ffffff;
+}
+
+body{
+
+}
+
+.bg-dark-custom{
+    background-color: var(--dark);
+}
+
+.bg-dark-x-custom{
+    background-color: var(--dark-x);
+}

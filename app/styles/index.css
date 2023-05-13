@@ -1,0 +1,28 @@
+.border-left-primary {
+    border-left: 0.5rem solid #4e73df!important;
+}
+
+.border-left-success {
+    border-left: 0.5rem solid #1cc88a!important;
+}
+
+.border-left-info {
+    border-left: 0.5rem solid #36b9cc!important;
+}
+
+.border-left-warning {
+    border-left: 0.5rem solid #f6c23e!important;
+}
+
+.main-background{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
+.custom-color1{
+    background-color: #488a99;
+}
+
+.border-rounded{
+	border-radius: 20px;
+}
